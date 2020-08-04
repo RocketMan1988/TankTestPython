@@ -1,8 +1,4 @@
 
-Durm, Donald Delano. (JSC-CI531)[SGT, INC]
-1:59 PM (1 minute ago)
-to me
-
 # -*- coding: utf-8 -*-
 
 """
